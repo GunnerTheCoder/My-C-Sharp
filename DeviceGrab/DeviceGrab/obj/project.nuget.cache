@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYyBEa3IzS0IjHPNeIt+vEO+9BxuiH9Jo4J6gs30mL17v7k0R1DOfaRjoSC+MQHl7mA8j4o2H2oILe2+5BivRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gunner Castle\\Desktop\\DeviceGrab\\DeviceGrab\\DeviceGrab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gunner Castle\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Gunner Castle\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

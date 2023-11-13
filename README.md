@@ -1,2 +1,5 @@
 # My-C-Sharp
-Complete Thing of all my C# Apps
+Complete Repo of all my C# Apps
+
+# Disclaimer
+Using or running these projects may harm your pc. USE WITH CARE
